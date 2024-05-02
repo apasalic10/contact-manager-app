@@ -3,12 +3,6 @@
 ## Description:
 This is a backend application designed for managing contacts. It provides features such as user registration and authentication. User authorization is handled using JWT tokens, regulating access to contacts and enabling functionalities like adding, updating, and deleting contacts.
 
-## Technologies Used:
-- Node.js
-- Express.js
-- MongoDB
-- JWT (JSON Web Tokens)
-
 ## Installation:
 1. Clone the repository: `git clone <repository-url>`
 2. Navigate to the project directory: `cd contact-manager-app`
@@ -30,3 +24,12 @@ This is a backend application designed for managing contacts. It provides featur
 - POST `/api/contacts`: Add a new contact.
 - PUT `/api/contacts/:id`: Update an existing contact by ID.
 - DELETE `/api/contacts/:id`: Delete a contact by ID.
+
+## Technologies Used:
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="50"/>
+  <img src="https://expressjs.com/images/express-facebook-share.png" alt="Express.js" width="50"/>
+  <img src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" alt="MongoDB" width="50"/>
+  <img src="https://jwt.io/img/pic_logo.svg" alt="JWT (JSON Web Tokens)" width="50"/>
+</div>
+
