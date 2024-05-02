@@ -4,7 +4,7 @@
 This is a backend application designed for managing contacts. It provides features such as user registration and authentication. User authorization is handled using JWT tokens, regulating access to contacts and enabling functionalities like adding, updating, and deleting contacts.
 
 ## Installation:
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/apasalic10/contact-manager-app`
 2. Navigate to the project directory: `cd contact-manager-app`
 3. Install dependencies: `npm install`
 4. Set up environment variables: Create a `.env` file and add required variables such as `PORT`, `DATABASE_URI`, and `ACCESS_TOKEN_SECRET`.
